@@ -1,0 +1,19 @@
+{
+  "name": "npmhandson",
+  "version": "1.0.0",
+  "description": "fresco play npm hands on git try out",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SAngraM7262/npmHandsOn.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SAngraM7262/npmHandsOn/issues"
+  },
+  "homepage": "https://github.com/SAngraM7262/npmHandsOn#readme"
+}
